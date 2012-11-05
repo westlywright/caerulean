@@ -1,6 +1,5 @@
 # Chrome Inspector caerulean Theme
-
-Custom CSS styling for the Google Chrome Inspector using a wide range of colors from deep blue to sky-blue.
+Custom CSS styling for the Google Chrome Inspector using a wide range of colors from deep blue to sky-blue as per the caerulean way. Caerulean comes jam packed with clean styling and kick ass toolbar icons in both large and small sizes without interfering with your 3rd party icons.
 
 ## Installation
 
