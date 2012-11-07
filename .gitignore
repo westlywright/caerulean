@@ -1,0 +1,4 @@
+#Ignore Mac OS Hidden File
+.DS_Store
+
+img/*

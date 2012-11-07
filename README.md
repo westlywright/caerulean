@@ -11,3 +11,6 @@ Custom CSS styling for the Google Chrome Inspector using a wide range of colors 
 
 [darcy-clarke]:http://darcyclarke.me
 [installation]:http://darcyclarke.me/design/skin-your-chrome-inspector
+
+### Credits
+Icons : UIcons by
